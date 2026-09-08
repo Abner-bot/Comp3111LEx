@@ -4,4 +4,4 @@ This is my 1st lab in Comp3111 - Software Engineering
     2.I have successfully created my first GitHub to share project source with others;
 
 Here's the screenshot of my 1st lab project in intelliJ;
-!(../../../img_1.png)
+![this is the picture of my lab 1 achievements](../../../img_1.png)
